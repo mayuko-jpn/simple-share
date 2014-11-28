@@ -117,7 +117,7 @@ class Simple_Share {
 		}
 		$share .= '</ul>';
 
-		return $share . $contents;
+		return $share . $contents . $share;
 	}
 
 
