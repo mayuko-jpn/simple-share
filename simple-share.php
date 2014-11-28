@@ -59,10 +59,6 @@ class Simple_Share {
 				display: none;
 			}
 			@media screen and (max-width: 480px) {
-				.simple-share
-				{
-					display: none;
-				}
 				#simple-share-mobile-footer-wrap,
 				#simple-share-mobile-footer
 				{
